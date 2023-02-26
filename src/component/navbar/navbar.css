@@ -79,3 +79,26 @@
       background: none;
   }
 }
+
+@media(max-width:550px){
+  .brand-name-brd{
+    font-size:1rem;
+  }
+  .brand-name-weight{
+    font-size:1.2rem;
+  }
+  .nav-links-item{
+    font-size:1.3rem;
+  }
+}
+@media(max-width:500px){
+  .brand-name-brd{
+    font-size:0.8rem;
+  }
+  .brand-name-weight{
+    font-size:1rem;
+  }
+  .brand-name-width{
+    width:70vw;
+  }
+}

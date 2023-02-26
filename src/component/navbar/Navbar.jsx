@@ -15,7 +15,7 @@ const Navbar = () => {
             </a>
           </div>
           <div style={{ height: "2px" }}></div>
-          <div>
+          <div className="brand-name-width">
             <a href="https://cet.edu.in" className="brand-name-weight">
               Odisha University of Technology and Research
             </a>
